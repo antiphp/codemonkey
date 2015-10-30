@@ -1,0 +1,17 @@
+{
+    "name": "antiphp/codemonkey",
+    "authors": [
+        {
+            "name": "Christian Reinecke",
+            "email": "christian.reinecke@web.de"
+        }
+    ],
+    "require": {
+        "symfony/console": "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Antiphp\\Codemonkey\\": "library"
+        }
+    }
+}
